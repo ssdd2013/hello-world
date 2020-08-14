@@ -1,2 +1,2 @@
 # hello-world
-This is a very initial repo for testing my git/ssh config
+I'm making changes to test various git actions.
